@@ -1,0 +1,7 @@
+x = 76
+y = 87
+z = -325
+
+print(type(x))
+print(type(y))
+print(type(z))
